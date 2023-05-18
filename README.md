@@ -1,4 +1,4 @@
 # React hooks
 
-![1](../bootcamp-react-hooks/src/images/1.png)
+![1](./src/images/1.png)
 
